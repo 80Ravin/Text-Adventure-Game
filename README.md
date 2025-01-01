@@ -5,3 +5,6 @@ This is a little project im working on
 1. Go to code, download the zip file
 2. Go to your downloads folder, extract the zip file
 3. Open the Text Adventure Game folder, and click on the Text Adventure Game application
+
+# IMPORTANT
+ The Beep Sound doesn't work on Mac, and Linux 
